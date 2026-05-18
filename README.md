@@ -32,6 +32,10 @@ of India's Air Quality Index (AQI).
 - Added Season column derived from Date column using IF and MONTH formula
 - Documented all cleaning decisions in Data Cleaning Log
 
+- ## 📦 Cleaned Dataset
+Also available on Kaggle:
+[India Air Quality — Cleaned Dataset](https://www.kaggle.com/datasets/clementantojohn/india-air-quality-analysis-20152020/data)
+
 ---
 
 ## 📊 Analysis Performed
